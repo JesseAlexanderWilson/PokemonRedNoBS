@@ -1,20 +1,9 @@
 _OakAppearsText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@"
+	text "OAK: Stop!@"
 	text_end
 
 _OakWalksUpText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
-
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
-
-	para "Here, come with"
-	line "me!"
+	text "OAK: Hammer Time!"
 	done
 
 _PalletTownText2::
