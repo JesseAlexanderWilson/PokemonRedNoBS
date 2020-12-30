@@ -413,8 +413,8 @@ RockTunnelPokecenterHiddenObjects:
 	db -1 ; end
 
 ViridianForestHiddenObjects:
-	hidden_object  1, 18, POTION, HiddenItems
-	hidden_object 16, 42, ANTIDOTE, HiddenItems
+	hidden_object  1, 18, HM_FLASH, HiddenItems
+	hidden_object 16, 42, TM_WATER_GUN, HiddenItems
 	db -1 ; end
 
 MtMoon3HiddenObjects:
