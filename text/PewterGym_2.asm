@@ -13,8 +13,7 @@ _PewterGymText_5c4a3::
 	done
 
 _TM34PreReceiveText::
-	text "Wait! Take this"
-	line "with you!"
+	text "Here."
 	done
 
 _ReceivedTM34Text::
@@ -24,26 +23,7 @@ _ReceivedTM34Text::
 
 _TM34ExplanationText::
 	text_start
-
-	para "A TM contains a"
-	line "technique that"
-	cont "can be taught to"
-	cont "#MON!"
-
-	para "A TM is good only"
-	line "once! So when you"
-	cont "use one to teach"
-	cont "a new technique,"
-	cont "pick the #MON"
-	cont "carefully!"
-
-	para "TM34 contains"
-	line "BIDE!"
-
-	para "Your #MON will"
-	line "absorb damage in"
-	cont "battle then pay"
-	cont "it back double!"
+	para "Good luck kid."
 	done
 
 _TM34NoRoomText::
@@ -52,31 +32,13 @@ _TM34NoRoomText::
 	done
 
 _PewterGymText_5c4bc::
-	text "I took"
-	line "you for granted."
-
-	para "As proof of your"
-	line "victory, here's"
-	cont "the BOULDERBADGE!"
-
-	para "<PLAYER> received"
+	text "<PLAYER> received"
 	line "the BOULDERBADGE!@"
 	text_end
 
 _PewterGymText_5c4c1::
 	text_start
-
-	para "That's an official"
-	line "#MON LEAGUE"
-	cont "BADGE!"
-
-	para "Its bearer's"
-	line "#MON become"
-	cont "more powerful!"
-
-	para "The technique"
-	line "FLASH can now be"
-	cont "used any time!"
+	para "Okay, yep."
 	prompt
 
 _PewterGymBattleText1::

@@ -4,18 +4,11 @@ _ViridianMartText1::
 	done
 
 _ViridianMartText4::
-	text "Hey! You came from"
-	line "PALLET TOWN?"
+	text "Hey!"
 	done
 
 ViridianMartParcelQuestText::
-	text "You know PROF."
-	line "OAK, right?"
-
-	para "His order came in."
-	line "Will you take it"
-	cont "to him?"
-
+	text "This is for OAK."
 	para "<PLAYER> got"
 	line "OAK's PARCEL!@"
 	text_end

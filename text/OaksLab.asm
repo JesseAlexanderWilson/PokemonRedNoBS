@@ -38,8 +38,7 @@ _OaksLabBulbasaurText::
 	done
 
 _OaksLabMonEnergeticText::
-	text "This #MON is"
-	line "really energetic!"
+	text "Okay, yep."
 	prompt
 
 _OaksLabReceivedMonText::
@@ -75,19 +74,7 @@ _OaksLabText_1d2fa::
 	done
 
 _OaksLabDeliverParcelText1::
-	text "OAK: Oh, <PLAYER>!"
-
-	para "How is my old"
-	line "#MON?"
-
-	para "Well, it seems to"
-	line "like you a lot."
-
-	para "You must be"
-	line "talented as a"
-	cont "#MON trainer!"
-
-	para "What? You have"
+	text "What? You have"
 	line "something for me?"
 
 	para "<PLAYER> delivered"
@@ -96,10 +83,7 @@ _OaksLabDeliverParcelText1::
 
 _OaksLabDeliverParcelText2::
 	text_start
-	para "Ah! This is the"
-	line "custom # BALL"
-	cont "I ordered!"
-	cont "Thank you!"
+	para "Thank you!"
 	done
 
 _OaksLabAroundWorldText::
@@ -200,8 +184,7 @@ _OaksLabLeavingText::
 	done
 
 _OaksLabRivalPickingMonText::
-	text "<RIVAL>: I'll take"
-	line "this one, then!"
+	text "<RIVAL>: Gimme!"
 	done
 
 _OaksLabRivalReceivedMonText::
@@ -212,20 +195,12 @@ _OaksLabRivalReceivedMonText::
 	text_end
 
 _OaksLabRivalChallengeText::
-	text "<RIVAL>: Wait"
-	line "<PLAYER>!"
-	cont "Let's check out"
-	cont "our #MON!"
-
-	para "Come on, I'll take"
-	line "you on!"
+	text "<RIVAL>: <PLAYER>!"
+	para "On your knees!"
 	done
 
 _OaksLabText_1d3be::
-	text "WHAT?"
-	line "Unbelievable!"
-	cont "I picked the"
-	cont "wrong #MON!"
+	text "..."
 	prompt
 
 _OaksLabText_1d3c3::
@@ -234,13 +209,7 @@ _OaksLabText_1d3c3::
 	prompt
 
 _OaksLabRivalToughenUpText::
-	text "<RIVAL>: Okay!"
-	line "I'll make my"
-	cont "#MON fight to"
-	cont "toughen it up!"
-
-	para "<PLAYER>! Gramps!"
-	line "Smell you later!"
+	text "Unbelievable."
 	done
 
 _OaksLabText21::
@@ -248,78 +217,33 @@ _OaksLabText21::
 	done
 
 _OaksLabText22::
-	text "<RIVAL>: What did"
-	line "you call me for?"
+	text "I need some DEX!"
 	done
 
 _OaksLabText23::
-	text "OAK: Oh right! I"
-	line "have a request"
-	cont "of you two."
+	text "OAK: Oh, right!"
 	done
 
 _OaksLabText24::
 	text "On the desk there"
-	line "is my invention,"
-	cont "#DEX!"
-
-	para "It automatically"
-	line "records data on"
-	cont "#MON you've"
-	cont "seen or caught!"
-
-	para "It's a hi-tech"
-	line "encyclopedia!"
+	line "is my #DEX!"
 	done
 
 _OaksLabText25::
 	text "OAK: <PLAYER> and"
 	line "<RIVAL>! Take"
-	cont "these with you!"
+	cont "some with you!"
 
 	para "<PLAYER> got"
-	line "#DEX from OAK!@"
+	line "DEX from OAK!@"
 	text_end
 
 _OaksLabText26::
-	text "To make a complete"
-	line "guide on all the"
-	cont "#MON in the"
-	cont "world..."
-
-	para "That was my dream!"
-
-	para "But, I'm too old!"
-	line "I can't do it!"
-
-	para "So, I want you two"
-	line "to fulfill my"
-	cont "dream for me!"
-
-	para "Get moving, you"
-	line "two!"
-
-	para "This is a great"
-	line "undertaking in"
-	cont "#MON history!"
+	text "Farewell boys."
 	done
 
 _OaksLabText27::
-	text "<RIVAL>: Alright"
-	line "Gramps! Leave it"
-	cont "all to me!"
-
-	para "<PLAYER>, I hate to"
-	line "say it, but I"
-	cont "don't need you!"
-
-	para "I know! I'll"
-	line "borrow a TOWN MAP"
-	cont "from my sis!"
-
-	para "I'll tell her not"
-	line "to lend you one,"
-	cont "<PLAYER>! Hahaha!"
+	text "<RIVAL>: Ok, bye."
 	done
 
 _OaksLabText_1d405::

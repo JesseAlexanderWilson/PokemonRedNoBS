@@ -1,15 +1,5 @@
 _Route1ViridianMartSampleText::
-	text "Hi! I work at a"
-	line "#MON MART."
-
-	para "It's a convenient"
-	line "shop, so please"
-	cont "visit us in"
-	cont "VIRIDIAN CITY."
-
-	para "I know, I'll give"
-	line "you a sample!"
-	cont "Here you go!"
+	text "Don't hurt me!"
 	prompt
 
 _Route1Text_1cae8::
